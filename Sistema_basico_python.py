@@ -2,8 +2,6 @@
 n = 0
 saldo=0.0
 i = 0
-j = 0
-k = 0
 LIMITE_SAQUES = 3
 depositos =[]
 saques = []
