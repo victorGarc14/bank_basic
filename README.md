@@ -1,3 +1,5 @@
-# Basic system for a bank with only 1 user.
+# Basic system for a bank.
 
 # This code is just an exercise. 
+
+
